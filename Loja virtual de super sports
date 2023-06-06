@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>Vendas de Motos Super Esportivas</title>
+
+  <style>
+
+    body {
+
+      background-color: white;
+
+      margin: 0;
+
+      padding: 0;
+
+      font-family: Arial, sans-serif;
+
+    }
+
+    
+
+    .header {
+
+      background-color: black;
+
+      color: white;
+
+      padding: 10px;
+
+      text-align: center;
+
+      font-size: 24px;
+
+      text-transform: uppercase;
+
+    }
+
+    
+
+    .content {
+
+      max-width: 800px;
+
+      margin: 20px auto;
+
+      text-align: center;
+
+    }
+
+    
+
+    .copy {
+
+      text-align: left;
+
+      margin-bottom: 20px;
+
+    }
+
+    
+
+    .image {
+
+      margin-bottom: 20px;
+
+    }
+
+    
+
+    .button {
+
+      display: inline-block;
+
+      padding: 10px 20px;
+
+      background-color: black;
+
+      color: white;
+
+      border-radius: 20px;
+
+      text-decoration: none;
+
+      text-transform: uppercase;
+
+    }
+
+    
+
+    .button:hover {
+
+      background-color: gray;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <header class="header">
+
+    BMW SUPER SPORT
+
+  </header>
+
+  
+
+  <div class="content">
+
+    <div class="copy">
+
+      <h1>Venda da Moto BMW Super Sport</h1>
+
+      <p>A BMW Super Sport é uma moto super esportiva com desempenho excepcional e design elegante.</p>
+
+      <p>Características:</p>
+
+      <ul>
+
+        <li>Motor: 1000cc</li>
+
+        <li>Potência: 205hp</li>
+
+        <li>Velocidade máxima: 299km/h</li>
+
+        <li>Freios ABS</li>
+
+      </ul>
+
+    </div>
+
+    
+
+    <div class="image">
+
+      <img src="bmw-s1000rr.jpg" alt="BMW S1000RR">
+
+    </div>
+
+    
+
+    <a class="button" href="imagem-da-moto.jpg">Ver Modelos</a>
+
+  </div>
+
+  
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
